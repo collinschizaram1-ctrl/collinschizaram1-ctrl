@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm KHOLINZ 👋
+# Hey, I'm KHOLINZ 
 
 **Breaking things to understand them, then building better ones.**
 
